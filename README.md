@@ -19,4 +19,5 @@ The **utils** folder contains the python files where we store the functions used
 In particular, the folder contains:
 - **collector_utils.py**: the python file that gathers the functions used in **collector.py**;
 - **parser_utils.py**: the python file that gathers the functions used in **parser.py**;
-- **index_utils.py**: the python file that gathers the functions used in **index.py**.
+- **index_utils.py**: the python file that gathers the functions used in **index.py**;
+- **utils.py**: a python file that gathers useful functions.
