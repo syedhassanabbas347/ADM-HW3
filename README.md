@@ -5,4 +5,5 @@ Group #2 is composed by:
 - Dany Khalil
 - Michele Meo
 
-## Repository description
+## Repository structure
+### Script description
