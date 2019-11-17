@@ -7,3 +7,5 @@ Group #2 is composed by:
 
 ## Repository structure
 ### Script description
+The repository contains the following scripts:
+- **collector.py**:
