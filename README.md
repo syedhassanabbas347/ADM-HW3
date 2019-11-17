@@ -6,6 +6,13 @@ Group #2 is composed by:
 - Michele Meo
 
 ## Repository structure
+
 ### Script description
 The repository contains the following scripts:
-- **collector.py**:
+- **collector.py**: the code we used to collect our data from Wikipedia;
+- **parser.py**: the code used to parse the entire collection and to save the information of interest in tsv files;
+- **index.py**: the code that generates the indexes of the Search engines;
+- **main.py**: the python file that build up the search engine;
+- **utils**: a folder containing the python files where we store the functions used in the scripts described above.
+
+###
