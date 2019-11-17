@@ -12,7 +12,8 @@ The repository contains the following scripts:
 - **collector.py**: the code we used to collect our data from Wikipedia;
 - **parser.py**: the code used to parse the entire collection and to save the information of interest in tsv files;
 - **index.py**: the code that generates the indexes of the Search engines;
-- **main.py**: the python file that build up the search engine.
+- **main.py**: the python file that build up the search engine;
+- **exercise_4.py**: it contains the code to solve problem 4.
 
 ### Utils folder description
 The **utils** folder contains the python files where we store the functions used in the scripts described above.  
