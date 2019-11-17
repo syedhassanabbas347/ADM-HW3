@@ -13,7 +13,8 @@ The repository contains the following scripts:
 - **parser.py**: the code used to parse the entire collection and to save the information of interest in tsv files;
 - **index.py**: the code that generates the indexes of the Search engines;
 - **main.py**: the python file that build up the search engine;
-- **exercise_4.py**: it contains the code to solve problem 4.
+- **exercise_4.py**: it contains the code to solve problem 4;
+- **main_final.ipynb**: here you will find the strategy of our group to do this project.
 
 ### Utils folder description
 The **utils** folder contains the python files where we store the functions used in the scripts described above.  
