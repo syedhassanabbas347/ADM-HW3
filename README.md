@@ -17,4 +17,6 @@ The repository contains the following scripts:
 
 ### Utils folder description
 This folder contains:
-
+- **collector_utils.py**: the python file that gathers the functions used in **collector.py**;
+- **parser_utils.py**: the python file that gathers the functions used in **parser.py**;
+- **index_utils.py**: the python file that gathers the functions used in **index.py**.
