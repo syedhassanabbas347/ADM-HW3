@@ -4,3 +4,5 @@ Group #2 is composed by:
 - Syed Hassan Abbas 
 - Dany Khalil
 - Michele Meo
+
+## Repository description
