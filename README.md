@@ -15,4 +15,6 @@ The repository contains the following scripts:
 - **main.py**: the python file that build up the search engine;
 - **utils**: a folder containing the python files where we store the functions used in the scripts described above.
 
-###
+### Utils folder description
+This folder contains:
+
